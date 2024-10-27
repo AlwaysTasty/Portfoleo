@@ -19,8 +19,8 @@ metadata:
     site_name: Huiwen
     images:
       - url: '~/assets/images/SOCbadge.png'
-        width: 960
-        height: 960
+        width: 568
+        height: 680
     type: website
   twitter:
     handle: '@onwidget'
